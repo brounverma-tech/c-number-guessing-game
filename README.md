@@ -1,4 +1,7 @@
 # 🎯 Number Guessing Game in C
+
+![Category](https://img.shields.io/badge/Category-C%20PROGRAMMING%20PROJECTS-darkgreen?style=for-the-badge)
+
 A beginner-friendly C number guessing game that uses random numbers, loops, and conditional statements.
 
 ## 🚀 Features
@@ -52,36 +55,6 @@ Run the program:
 
     ./number_guessing_game
 
-Example:
-
-       === Number Guessing Game ===
-
-    Select Difficulty Level:
-    1. Easy (1-50)
-    2. Medium (1-100)
-    3. Hard (1-500)
-    Enter your choice: 2
-
-    I have selected a number between 1 and 100.
-    You have 8 attempts to guess it.
-    Try to guess it!
-
-    Enter your guess: 150
-    Invalid guess! Enter a number between 1 and 100.
-
-    Enter your guess: 40
-    Too low! Try again.
-    Attempts remaining: 7
-
-    Enter your guess: 75
-    Too high! Try again.
-    Attempts remaining: 6
-
-    Enter your guess: 60
-
-    Correct! You guessed the number.
-    Total attempts: 3
-
 ## 🧠 What I Learned
 
 Through this project, I practiced:
@@ -111,7 +84,6 @@ Through this project, I practiced:
 - Add a play-again option
 - Display the best score
 - Add a scoring system based on attempts
-- Add input validation for invalid guesses
 
 ## 👨‍💻 Author
 
